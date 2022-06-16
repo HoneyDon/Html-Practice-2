@@ -1,0 +1,14 @@
+ul{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+li:hover{
+    background-color: whitesmoke;
+    color: black;
+}
